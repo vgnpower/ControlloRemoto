@@ -1,0 +1,87 @@
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Ale\Desktop\SOCKETS\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Chat.resources
+E:\SOCKETS\Gestione multi connessione\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Chat.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\WebCamLib.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\WebCamLib.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\WebCamLib.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\WebCamLib.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Chat.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPServer01\TCPServer01\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\WebCamLib.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\Touchless.Vision.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\bin\Debug\WebCamLib.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Chat.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb

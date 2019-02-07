@@ -1,0 +1,119 @@
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Naeem\Documents\Visual Studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\Ale\Desktop\SOCKETS\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+C:\Users\Ale\Desktop\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+F:\PROGETTO5ANNO\Gestione multi connessione\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.dll
+E:\SOCKETS\Gestione multi connessione\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FrnWebCam.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FrnWebCam.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\02-06-2017\TCPClient01\TCPClient01\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FrnWebCam.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\04-06-2017\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe.config
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\bin\Debug\KeystrokeAPI.pdb
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.condivisioneSchermo.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FileExplorerTransfer.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.FrnWebCam.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.ListaProcessi.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Principale.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\SOCKETS\Gestione multi connessione\GestioneControlloRemoto\26-06-2017 - Copia\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
